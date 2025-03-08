@@ -32,6 +32,7 @@ int success(int x[15][15])
 	}
 	
 }
+/*
 int main()
 {
 	initgraph(400,400);
@@ -95,3 +96,4 @@ IMAGE gc;
 	_getch();
 	closegraph();
 }
+*/
